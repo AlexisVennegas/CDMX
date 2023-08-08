@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Home",
+        "img": "https://images.squarespace-cdn.com/content/v1/568e71dba12f44a30efa33f4/1666392952328-YXHVIDAKI42DED4AZAMI/bellasartes8.png?format=300w"
+    },
+    {
+        "id": 2,
+        "title": "About",
+        "img": "https://images.squarespace-cdn.com/content/v1/568e71dba12f44a30efa33f4/1669448425981-JL5PE5HHCGVKVB8Y7ISM/zapata12.png?format=300w"
+    },
+    {
+        "id": 3,
+        "title": "Projects",
+        "img": "https://images.squarespace-cdn.com/content/v1/568e71dba12f44a30efa33f4/1665965097877-QAKI7W8YUFX8CX1TS6G3/gomezfarias.png?format=300w"
+    },
+    {
+        "id": 4,
+        "title": "Contact",
+        "img": "https://images.squarespace-cdn.com/content/v1/568e71dba12f44a30efa33f4/1666459353488-HM661OHSPCL4O7AR88Z4/zocalo.png?format=300w"
+    },
+    {
+        "id": 5,
+        "title": "Skills",
+        "img": "https://images.squarespace-cdn.com/content/v1/568e71dba12f44a30efa33f4/1666102521075-S4N582GCQFMSYSINL3WD/tacubaya9.png?format=300w"
+    },
+    {
+        "id": 6,
+        "title": "Experience",
+        "img": "https://images.squarespace-cdn.com/content/v1/568e71dba12f44a30efa33f4/1665855485467-48HJNHNB13KE9NFGZOLN/sanlazaroB.png?format=300w"
+    }
+]
